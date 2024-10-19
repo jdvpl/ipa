@@ -1,0 +1,165 @@
+Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+Global,2017,All ages,Both,Tuberculosis,Percent of total deaths,0.0211573756141351,0.0202288403287708,0.0222174309976721
+Global,2017,All ages,Both,HIV/AIDS,Percent of total deaths,0.0170611251089369,0.0161886701725181,0.0180192419516578
+Global,2017,All ages,Both,Diarrheal diseases,Percent of total deaths,0.0280533101090737,0.0210608583079882,0.0390130396835919
+Global,2017,All ages,Both,Other intestinal infectious diseases,Percent of total deaths,2.58723479591e-05,1.80906372241e-05,3.97149502131e-05
+Global,2017,All ages,Both,Lower respiratory infections,Percent of total deaths,0.0457336479660751,0.0437771295248342,0.0473748438285844
+Global,2017,All ages,Both,Upper respiratory infections,Percent of total deaths,0.0001628671493701,0.000109969046434,0.0002207170671281
+Global,2017,All ages,Both,Otitis media,Percent of total deaths,1.69440385863e-05,1.24446895962e-05,2.59253403628e-05
+Global,2017,All ages,Both,Meningitis,Percent of total deaths,0.005148121667779,0.0045465208582382,0.0059602269036973
+Global,2017,All ages,Both,Encephalitis,Percent of total deaths,0.0016510598694873,0.0014900663491213,0.0019283699343718
+Global,2017,All ages,Both,Diphtheria,Percent of total deaths,6.47776890652e-05,4.00902957927e-05,0.0001087459926051
+Global,2017,All ages,Both,Whooping cough,Percent of total deaths,0.0016408007069808,0.0008180737043831,0.0029179029782169
+Global,2017,All ages,Both,Tetanus,Percent of total deaths,0.0006816135000307,0.000461773317969,0.0008768510666481
+Global,2017,All ages,Both,Measles,Percent of total deaths,0.0017034712666564,0.0006134511378573,0.0036783698486494
+Global,2017,All ages,Both,Varicella and herpes zoster,Percent of total deaths,0.0002786693563271,0.0002565191306115,0.0003091800569157
+Global,2017,All ages,Both,Malaria,Percent of total deaths,0.011078340274879,0.0078212365106579,0.0149892046558062
+Global,2017,All ages,Both,Chagas disease,Percent of total deaths,0.0001403720918739,0.0001332977820575,0.0001544584444687
+Global,2017,All ages,Both,Leishmaniasis,Percent of total deaths,0.0001345632685432,8.365042716076779e-08,0.0006168288534037
+Global,2017,All ages,Both,African trypanosomiasis,Percent of total deaths,2.43933373104e-05,4.7461596463e-06,8.72451579416e-05
+Global,2017,All ages,Both,Schistosomiasis,Percent of total deaths,0.0001579495392248,0.0001431505294917,0.0001740642083425
+Global,2017,All ages,Both,Cysticercosis,Percent of total deaths,1.33908238799e-05,9.2685403514e-06,1.79272232201e-05
+Global,2017,All ages,Both,Cystic echinococcosis,Percent of total deaths,2.1386062453e-05,1.58201852206e-05,2.76613531725e-05
+Global,2017,All ages,Both,Lymphatic filariasis,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Onchocerciasis,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Trachoma,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Dengue,Percent of total deaths,0.0007233386058357,0.000316445911581,0.0008892115769422
+Global,2017,All ages,Both,Yellow fever,Percent of total deaths,8.55471470431e-05,1.82898405206e-05,0.0002467380525463
+Global,2017,All ages,Both,Rabies,Percent of total deaths,0.0002083847259727,0.000165787220358,0.0002626196197477
+Global,2017,All ages,Both,Intestinal nematode infections,Percent of total deaths,5.73008269868e-05,4.40517497113e-05,7.37948659637e-05
+Global,2017,All ages,Both,Food-borne trematodiases,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Other neglected tropical diseases,Percent of total deaths,0.0002245173644245,0.0001420283395591,0.0006420068455627
+Global,2017,All ages,Both,Maternal disorders,Percent of total deaths,0.0034610645158844,0.0032260178288335,0.0037339817780389
+Global,2017,All ages,Both,Neonatal disorders,Percent of total deaths,0.0318836686735364,0.0302663443158692,0.033267398403502
+Global,2017,All ages,Both,Protein-energy malnutrition,Percent of total deaths,0.0041427851160826,0.0037914940255219,0.0045296764568988
+Global,2017,All ages,Both,Iodine deficiency,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Vitamin A deficiency,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Dietary iron deficiency,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Other nutritional deficiencies,Percent of total deaths,0.0006832782337561,0.0006017201826143,0.0007972693227883
+Global,2017,All ages,Both,Sexually transmitted infections excluding HIV,Percent of total deaths,0.0021285622744547,0.0009102470173868,0.003926717612362
+Global,2017,All ages,Both,Acute hepatitis,Percent of total deaths,0.0022591798525185,0.0016900141330082,0.0025673262090057
+Global,2017,All ages,Both,Leprosy,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Other unspecified infectious diseases,Percent of total deaths,0.0014169176647729,0.0010671570814413,0.001516140658895
+Global,2017,All ages,Both,Esophageal cancer,Percent of total deaths,0.0077924723494445,0.007622383065902,0.0079677903619712
+Global,2017,All ages,Both,Stomach cancer,Percent of total deaths,0.015461213609688,0.0151843312275152,0.0157740081324355
+Global,2017,All ages,Both,Liver cancer,Percent of total deaths,0.0146468169971159,0.0141274817704414,0.0152281688654275
+Global,2017,All ages,Both,Larynx cancer,Percent of total deaths,0.0022605990637818,0.0022085389371181,0.0023141413761155
+Global,2017,All ages,Both,Cervical cancer,Percent of total deaths,0.0046414284810586,0.0043339371235414,0.0048031465759615
+Global,2017,All ages,Both,Uterine cancer,Percent of total deaths,0.0015236005308594,0.0014891831735521,0.0015612251584569
+Global,2017,All ages,Both,Prostate cancer,Percent of total deaths,0.0074342635228325,0.0063633190325564,0.0087329274176688
+Global,2017,All ages,Both,Colon and rectum cancer,Percent of total deaths,0.0160163636956137,0.0156881438303684,0.0163353048703724
+Global,2017,All ages,Both,Lip and oral cavity cancer,Percent of total deaths,0.0034622018774819,0.0033029989073359,0.0035936174469401
+Global,2017,All ages,Both,Nasopharynx cancer,Percent of total deaths,0.0012431580771098,0.0011971745877151,0.0012875219267619
+Global,2017,All ages,Both,Other pharynx cancer,Percent of total deaths,0.0020986732114468,0.001830083245808,0.0022197816845554
+Global,2017,All ages,Both,Gallbladder and biliary tract cancer,Percent of total deaths,0.0031097191942689,0.0027459353475237,0.0033011069619215
+Global,2017,All ages,Both,Pancreatic cancer,Percent of total deaths,0.0078841832924304,0.0077412373941096,0.0080155117733814
+Global,2017,All ages,Both,Malignant skin melanoma,Percent of total deaths,0.0011022547576849,0.0008605348993282,0.0012498943656067
+Global,2017,All ages,Both,Non-melanoma skin cancer,Percent of total deaths,0.0011635858923242,0.001128142592369,0.0011863363884845
+Global,2017,All ages,Both,Ovarian cancer,Percent of total deaths,0.0031455902611459,0.0030689027807696,0.0032325945510162
+Global,2017,All ages,Both,Testicular cancer,Percent of total deaths,0.0001369499993452,0.0001319822849471,0.0001432694051088
+Global,2017,All ages,Both,Kidney cancer,Percent of total deaths,0.0024761162489309,0.0022954893519305,0.0025455641072639
+Global,2017,All ages,Both,Bladder cancer,Percent of total deaths,0.0035131997475803,0.0034255374509703,0.0036816249782252
+Global,2017,All ages,Both,Brain and nervous system cancer,Percent of total deaths,0.0044175165107495,0.0038148717903567,0.0047257479387612
+Global,2017,All ages,Both,Thyroid cancer,Percent of total deaths,0.0007370554828541,0.0007146387413679,0.0007879557614558
+Global,2017,All ages,Both,Mesothelioma,Percent of total deaths,0.0005346084430456,0.0005213646262327,0.0005474718741968
+Global,2017,All ages,Both,Hodgkin lymphoma,Percent of total deaths,0.0005819737511459,0.0004951852592583,0.0006784656046097
+Global,2017,All ages,Both,Non-Hodgkin lymphoma,Percent of total deaths,0.0044442501437125,0.0043587730682106,0.004512612338767
+Global,2017,All ages,Both,Multiple myeloma,Percent of total deaths,0.0019146217258646,0.0017595602164927,0.0021148886787395
+Global,2017,All ages,Both,Leukemia,Percent of total deaths,0.0062129296403176,0.0056821281209099,0.0065216022892853
+Global,2017,All ages,Both,Other malignant neoplasms,Percent of total deaths,0.0064267064746691,0.0059272275130124,0.0066080038228903
+Global,2017,All ages,Both,Other neoplasms,Percent of total deaths,0.0018396778897259,0.0014320881796733,0.0021971552471611
+Global,2017,All ages,Both,Rheumatic heart disease,Percent of total deaths,0.0051034897906684,0.0047662649149439,0.0054260016598892
+Global,2017,All ages,Both,Ischemic heart disease,Percent of total deaths,0.159626658585997,0.1573422692033054,0.1631171453191345
+Global,2017,All ages,Both,Stroke,Percent of total deaths,0.1102370831646027,0.1084208288959661,0.112884538982783
+Global,2017,All ages,Both,Hypertensive heart disease,Percent of total deaths,0.0165460503875236,0.0121509570282542,0.0177434016132653
+Global,2017,All ages,Both,Cardiomyopathy and myocarditis,Percent of total deaths,0.0065874314327402,0.0061137627447663,0.0069162407389133
+Global,2017,All ages,Both,Atrial fibrillation and flutter,Percent of total deaths,0.0051343750058958,0.0049217541003034,0.0054596228921112
+Global,2017,All ages,Both,Aortic aneurysm,Percent of total deaths,0.0029895066136537,0.0028635895453508,0.0031108648737153
+Global,2017,All ages,Both,Peripheral artery disease,Percent of total deaths,0.0012542509990393,0.0007701389505358,0.0022124746018909
+Global,2017,All ages,Both,Endocarditis,Percent of total deaths,0.0014905728862199,0.0013295285661041,0.0016899907988916
+Global,2017,All ages,Both,Non-rheumatic valvular heart disease,Percent of total deaths,0.0025893166350714,0.002186650081906,0.0026910231852843
+Global,2017,All ages,Both,Other cardiovascular and circulatory diseases,Percent of total deaths,0.0064464193835328,0.0060452497667143,0.0070173353280889
+Global,2017,All ages,Both,Chronic obstructive pulmonary disease,Percent of total deaths,0.0571591650863051,0.0542905930977073,0.0597412273147816
+Global,2017,All ages,Both,Pneumoconiosis,Percent of total deaths,0.000385221317858,0.0003662738439102,0.0004048047130734
+Global,2017,All ages,Both,Asthma,Percent of total deaths,0.0088490553775976,0.0060404340679548,0.011443827669836
+Global,2017,All ages,Both,Interstitial lung disease and pulmonary sarcoidosis,Percent of total deaths,0.0026390208215617,0.0020479091146914,0.0032426280013209
+Global,2017,All ages,Both,Other chronic respiratory diseases,Percent of total deaths,0.0009320795728658,0.0008221939802911,0.0010676506135169
+Global,2017,All ages,Both,Cirrhosis and other chronic liver diseases,Percent of total deaths,0.0236454613152961,0.0227432815505835,0.0259333616006906
+Global,2017,All ages,Both,Appendicitis,Percent of total deaths,0.0007854796349155,0.0007172580621307,0.0008493795548853
+Global,2017,All ages,Both,Paralytic ileus and intestinal obstruction,Percent of total deaths,0.0042986315662046,0.0035480812605924,0.0046806358581516
+Global,2017,All ages,Both,Inflammatory bowel disease,Percent of total deaths,0.0006904701638102,0.000564317619072,0.0007355987771319
+Global,2017,All ages,Both,Vascular intestinal disorders,Percent of total deaths,0.0017168755227661,0.001591329663763,0.0018018146044102
+Global,2017,All ages,Both,Gallbladder and biliary diseases,Percent of total deaths,0.001975795706469,0.001887414025285,0.0020930848856064
+Global,2017,All ages,Both,Pancreatitis,Percent of total deaths,0.0018163798812019,0.0015985606065867,0.0019418426050366
+Global,2017,All ages,Both,Other digestive diseases,Percent of total deaths,0.0015600601346918,0.0014632883250872,0.0016681028899996
+Global,2017,All ages,Both,Alzheimer's disease and other dementias,Percent of total deaths,0.0449479270088809,0.0442175556614186,0.0455210680509686
+Global,2017,All ages,Both,Parkinson's disease,Percent of total deaths,0.0060887697124242,0.0057926481467617,0.0063343188186721
+Global,2017,All ages,Both,Epilepsy,Percent of total deaths,0.0023278790374181,0.0021037446087832,0.0026939781120622
+Global,2017,All ages,Both,Multiple sclerosis,Percent of total deaths,0.0003692029581728,0.0003169763336653,0.0003976493494608
+Global,2017,All ages,Both,Motor neuron disease,Percent of total deaths,0.0006089604981468,0.0005862097914132,0.0006627237492398
+Global,2017,All ages,Both,Other neurological disorders,Percent of total deaths,0.0009642704503928,0.0009217543669905,0.0010630729953434
+Global,2017,All ages,Both,Schizophrenia,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Alcohol use disorders,Percent of total deaths,0.0033056131571215,0.0029821510772173,0.0034343965272651
+Global,2017,All ages,Both,Drug use disorders,Percent of total deaths,0.0029781295066102,0.0029250915788479,0.0030415190034391
+Global,2017,All ages,Both,Depressive disorders,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Bipolar disorder,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Anxiety disorders,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Eating disorders,Percent of total deaths,5.8356283199e-06,5.3002890984e-06,6.3791868353e-06
+Global,2017,All ages,Both,Autism spectrum disorders,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Attention-deficit/hyperactivity disorder,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Conduct disorder,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Idiopathic developmental intellectual disability,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Other mental disorders,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Diabetes mellitus,Percent of total deaths,0.0244854451403609,0.0240221985079387,0.0250240569968216
+Global,2017,All ages,Both,Acute glomerulonephritis,Percent of total deaths,0.0001998799430897,0.0001879960571429,0.000215617040121
+Global,2017,All ages,Both,Chronic kidney disease,Percent of total deaths,0.0219886687372709,0.0213173932068008,0.0224496402332935
+Global,2017,All ages,Both,Urinary diseases and male infertility,Percent of total deaths,0.0048474177331912,0.0047126246033184,0.0050386292590405
+Global,2017,All ages,Both,Gynecological diseases,Percent of total deaths,0.0001458309656909,0.0001325379208843,0.0001552453188448
+Global,2017,All ages,Both,Hemoglobinopathies and hemolytic anemias,Percent of total deaths,0.0018691202076874,0.001465397600614,0.0023600994643264
+Global,2017,All ages,Both,Rheumatoid arthritis,Percent of total deaths,0.0008450028128518,0.0006966357510508,0.0009167824426159
+Global,2017,All ages,Both,Osteoarthritis,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Low back pain,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Neck pain,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Gout,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Other musculoskeletal disorders,Percent of total deaths,0.0013226229657464,0.0011786460501693,0.0014039498021909
+Global,2017,All ages,Both,Congenital birth defects,Percent of total deaths,0.0104540629842378,0.0099696459968284,0.011031555196752
+Global,2017,All ages,Both,Dermatitis,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Psoriasis,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Scabies,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Fungal skin diseases,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Viral skin diseases,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Acne vulgaris,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Alopecia areata,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Pruritus,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Urticaria,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Decubitus ulcer,Percent of total deaths,0.0003634746014863,0.0002354209404382,0.0005473861561039
+Global,2017,All ages,Both,Other skin and subcutaneous diseases,Percent of total deaths,7.04337976841e-05,4.64489877827e-05,0.0001282916730201
+Global,2017,All ages,Both,Age-related and other hearing loss,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Other sense organ diseases,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Oral disorders,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Sudden infant death syndrome,Percent of total deaths,0.0007142466127103,0.0003207059024286,0.0013747681705863
+Global,2017,All ages,Both,Road injuries,Percent of total deaths,0.0222191428942067,0.0212977854399358,0.0227489427572664
+Global,2017,All ages,Both,Other transport injuries,Percent of total deaths,0.0016433033422866,0.0015126152960442,0.0019254103671931
+Global,2017,All ages,Both,Falls,Percent of total deaths,0.0124366155417836,0.0114993370673323,0.0132721490852974
+Global,2017,All ages,Both,Drowning,Percent of total deaths,0.0052767374578483,0.0050790442896001,0.0054590105948708
+Global,2017,All ages,Both,Poisonings,Percent of total deaths,0.0012935765176541,0.0009419375320729,0.001419502043887
+Global,2017,All ages,Both,Exposure to mechanical forces,Percent of total deaths,0.0024397798151526,0.0020998401311416,0.0025534060545354
+Global,2017,All ages,Both,Adverse effects of medical treatment,Percent of total deaths,0.0021730228781172,0.0018607513261131,0.0024612246793205
+Global,2017,All ages,Both,Animal contact,Percent of total deaths,0.0014491317532093,0.0007984620870695,0.0016785931403211
+Global,2017,All ages,Both,Foreign body,Percent of total deaths,0.0022183846851984,0.0021316162784433,0.0023189496326367
+Global,2017,All ages,Both,Other unintentional injuries,Percent of total deaths,0.0016923863412223,0.0016438520933394,0.0017572040851551
+Global,2017,All ages,Both,Self-harm,Percent of total deaths,0.0141891884963408,0.0132982463687483,0.014600798595625
+Global,2017,All ages,Both,Interpersonal violence,Percent of total deaths,0.0072454205604308,0.0065296250179672,0.0077174654599746
+Global,2017,All ages,Both,Exposure to forces of nature,Percent of total deaths,0.0001716510313657,0.0001551514143059,0.0001968132460058
+Global,2017,All ages,Both,Environmental heat and cold exposure,Percent of total deaths,0.0009536132898151,0.0006557441070677,0.0010575652100871
+Global,2017,All ages,Both,Ebola,Percent of total deaths,1.43192410218886e-07,1.305399749809665e-07,1.575671796596064e-07
+Global,2017,All ages,Both,Executions and police conflict,Percent of total deaths,0.0002852644560247,0.0002798580546835,0.0002913711931445
+Global,2017,All ages,Both,Zika virus,Percent of total deaths,3.4678654745127524e-07,7.780189557250585e-08,1.0195758248e-06
+Global,2017,All ages,Both,Guinea worm disease,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Conflict and terrorism,Percent of total deaths,0.0023187400248612,0.0021099043617744,0.0025676449034277
+Global,2017,All ages,Both,Typhoid and paratyphoid,Percent of total deaths,0.002429595590211,0.001373842856355,0.0038835440450577
+Global,2017,All ages,Both,Invasive Non-typhoidal Salmonella (iNTS),Percent of total deaths,0.0010557693501751,0.0005938675237293,0.0017496684838178
+Global,2017,All ages,Both,Headache disorders,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Bacterial skin diseases,Percent of total deaths,0.0013586167062844,0.0008727517920852,0.0017056280730581
+Global,2017,All ages,Both,Blindness and vision impairment,Percent of total deaths,0.0,0.0,0.0
+Global,2017,All ages,Both,Upper digestive system diseases,Percent of total deaths,0.0052213828094569,0.0050053530943821,0.0055877966304741
